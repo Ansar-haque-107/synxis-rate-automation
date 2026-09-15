@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exported rate sheets (contain real property data)
+*.xlsx
